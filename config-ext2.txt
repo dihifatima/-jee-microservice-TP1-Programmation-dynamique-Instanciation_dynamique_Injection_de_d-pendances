@@ -1,0 +1,2 @@
+org.example.dao.DaoImplExt2
+org.example.metier.MetierImplExt2
